@@ -1,0 +1,115 @@
+5
+Housekeeping
+11
+11
+19
+1,Large Towel,9,19,29,300
+2,Hand Towel,5,15,25,300
+3,Washcloth,3,13,23,300
+4,Shampoo,40,50,60,300
+5,Moisturizer,40,50,60,300
+6,Conditioner,40,50,60,300
+7,Hand Soap,35,45,55,500
+8,Bath Soap,35,45,55,500
+9,Tissues,14,24,34,500
+10,Toilet Paper,19,29,39,500
+11,Shower Cap,10,20,30,500
+12,Bed Sheet (King),29,39,49,500
+13,Bed Sheet (Double),20,30,40,1000
+14,Pillowcase,15,25,35,1000
+15,Drinking Glass,24,34,44,1000
+16,Mouthwash,40,50,60,1000
+17,Clothes Hanger,18,28,38,1000
+18,Coffee Cup,24,34,44,1000
+19,Light Bulb,17,27,37,1000
+Office Supplies
+22
+22
+13
+20,Pens,30,40,50,440
+21,Printer Paper,50,60,70,440
+22,Paper Clips,3,13,23,440
+23,Printer Toner,85,95,105,440
+24,Envelopes (Letter),24,34,44,440
+25,Envelopes (Legal),28,38,48,440
+26,Envelopes (Catalog),13,23,33,440
+27,Invisible Tape,8,18,28,660
+28,Staples,8,18,28,660
+29,Erasable Markers,6,16,26,660
+30,Permanent Markers,6,16,26,660
+31,Sticky Notes,20,30,40,660
+32,Note Pads,14,24,34,660
+Furnishings
+33
+33
+26
+33,Towel Rack,10,20,30,550
+34,Shower Curtain,5,15,25,550
+35,Tissue Box,25,35,45,550
+36,Armoire,115,125,135,550
+37,Bed (King),300,310,320,550
+38,Bed (Double),250,260,270,550
+39,Alarm Clock,45,55,65,550
+40,Coffee Maker,119,129,139,550
+41,Office Chair,85,95,105,550
+42,Reading Chair,70,80,90,550
+43,Table Lamp,38,48,58,550
+44,Floor Lamp,55,65,75,220
+45,Computer Desk,102,112,122,220
+46,Safe,115,125,135,220
+47,Swivel Chair,75,85,95,220
+48,Side Table,40,50,60,220
+49,Large Vase,27,37,47,220
+50,Small Vase,33,43,53,220
+51,Painting,85,95,105,220
+52,Ironing Board,18,28,38,220
+53,Iron,20,30,40,220
+54,Chest of Drawers,150,160,170,220
+55,Television,200,210,220,220
+56,Telephone,38,48,58,220
+57,Wireless Router,70,80,90,330
+58,Mirror,85,95,105,330
+Maintenance
+44
+44
+15
+59,Screws,14,24,34,550
+60,Portable Drill,195,205,215,550
+61,Tape Measure,8,18,28,550
+62,Leaf Blower,202,212,222,550
+63,Duct Tape,27,37,47,550
+64,Gaffer's Tape,27,37,47,550
+65,Ladder,89,99,109,550
+66,Wood Glue,21,31,41,550
+67,Adjustable Wrench,10,20,30,550
+68,Window Screen,30,40,50,230
+69,Door Knob,41,51,61,230
+70,Door Lock,117,127,137,230
+71,Hammer,17,27,37,230
+72,Nails,12,22,32,230
+73,Mop,15,25,35,230
+Public Areas
+55
+55
+21
+74,Large Plant,35,45,55,660
+75,Small Plant,25,35,45,660
+76,Ficus,80,90,100,660
+77,Large Area Rug,40,50,60,660
+78,Small Area Rug,20,30,40,660
+79,Coffee Table,103,113,123,660
+80,Poster Stand,27,37,47,660
+81,Flyer Holder,3,13,23,660
+82,Business Cards,60,70,80,660
+83,Bar Stool,60,70,80,880
+84,Tall Chair,75,85,95,880
+85,Low Chair,80,90,100,880
+86,Sofa,215,225,235,880
+87,End Table,30,40,50,880
+88,Serving Tray,6,16,26,880
+89,Photograph,45,55,65,880
+90,Luggage Cart,138,148,158,340
+91,Small Sign,14,24,34,340
+92,Large Sign,20,30,40,340
+93,Terminal,85,95,105,340
+94,Monitor,70,80,90,340
